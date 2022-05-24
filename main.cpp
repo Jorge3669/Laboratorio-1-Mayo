@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 							cout<<"La nota mas alta es: "<<Notas[1]<<endl;
 						}
 						else{
-							cout<<"La nota mas alta es: "<<Notas[2]<<endl;
+							cout<<"La nota mas baja es: "<<Notas[2]<<endl;
 						}
 					}
 					break;
